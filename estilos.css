@@ -1,0 +1,10 @@
+/* Características del pie de la página */
+footer {
+	text-align:center;
+	font-weight:bold;
+	font-size:90%;
+	background-color:red;
+	padding-top:10px;
+	padding-bottom:10px;
+	border-radius:5px;
+}
